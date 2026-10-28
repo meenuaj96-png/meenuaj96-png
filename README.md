@@ -1,19 +1,21 @@
 # Meenu A J
 
-Junior Advocate transitioning into Governance, Risk & Compliance (GRC) and Data Privacy. Combines a legal background (BBA LLB) with independently built, industry-standard compliance documentation demonstrating practical audit, privacy, and risk management capability.
+Law graduate (BBA LLB) moving into AML/KYC, financial crime compliance and data privacy. I build simulated case files that show how I think through compliance work.
 
-Location: Kerala, India
-Email: meenuaj96@gmail.com
+Location: Kerala, India | Email: meenuaj96@gmail.com
 
 ## Portfolios
 
 | Portfolio | Description |
 |---|---|
-| [DPDP & Data Privacy](https://github.com/meenuaj96-png/glownest-dpdp-privacy-portfolio) | Privacy policy, DPDP compliance audit, privacy notice, DPIA, and cross-border data transfer analysis |
-
-Additional portfolios covering HR Compliance, GRC/Internal Audit, Legal Process, and AI Governance are in progress and will be added here.
+| [KYC / CDD Case Pack](https://github.com/meenuaj96-png/kyc-cdd-case-pack) | Onboarding risk rating, EDD escalation and a draft STR (simulation) |
+| [DPDP & Data Privacy](https://github.com/meenuaj96-png/glownest-dpdp-privacy-portfolio) | Privacy policy, DPDP audit, DPIA, cross-border transfers |
+| [Forensic Vendor Fraud Review](https://github.com/meenuaj96-png/forensic-vendor-fraud-review) | Vendor payment fraud and anti-bribery review (simulation) |
+| [NovaTech HR Portfolio](https://github.com/meenuaj96-png/novatech-hr-portfolio) | Recruitment, analytics and compliance for a simulated firm |
 
 ## Certifications
 
-- Certified Data Protection Officer (CDPO) — Future Crime Research Foundation 
-- HR Management Certification — Internshala, in association with NSDC / Skill India 
+- Certified Data Protection Officer (CDPO), Future Crime Research Foundation
+- DPDPA certificate
+- Securiti AI Security & Governance
+- HR Management Certification, Internshala, with NSDC / Skill India
